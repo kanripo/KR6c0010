@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 道行般若經
+#+DATE: 2015-08-30 19:43:43.238131
+#+PROPERTY: JUAN 0
